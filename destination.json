@@ -1,0 +1,5 @@
+{
+  "ToAddresses":  ["test@test.com"],
+  "CcAddresses":  [],
+  "BccAddresses": []
+}
