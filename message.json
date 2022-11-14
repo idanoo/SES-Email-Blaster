@@ -1,6 +1,6 @@
 {
    "Subject": {
-       "Data": "Test email sent using the AWS CLI",
+       "Data": "1 - Test email sent using the AWS CLI",
        "Charset": "UTF-8"
    },
    "Body": {

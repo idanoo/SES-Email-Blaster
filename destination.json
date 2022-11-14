@@ -1,5 +1,5 @@
 {
-  "ToAddresses":  ["test@test.com"],
+  "ToAddresses":  ["REPLACE_WITH_SENDER"],
   "CcAddresses":  [],
   "BccAddresses": []
 }
